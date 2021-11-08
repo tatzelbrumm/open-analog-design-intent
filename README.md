@@ -48,7 +48,7 @@ So, for an analog designer, a sloppy analogy of
 * If the documentation is incomplete, the Kolmogorov complexity also includes the length of the informal notes in forums like stackoverflow, slack, ... to fill the missing parts in the documentation.
 * If different people contribute different tools, the Kolmogorov complexity also includes the specifications of any and all APIs between these tools.
 * If different contributors make inconsistent implicit assumptions, the Kolmogorov complexity also includes all the communication necessary to resolve these inconsistencies.
-* If different contributors are too busy to respond to any rando's obnoxious questions, the Kolmogorov complexity also includes whatever social engineering (like building reputation or aqcuiring formal credentials) that the contributors will actually listen to you.
+* If different contributors are too busy to respond to any rando's obnoxious questions, the Kolmogorov complexity also includes whatever social engineering (like building reputation or aqcuiring formal credentials) is necessary that the contributors will actually listen to you.
 * If the solutions of incomplete or inconsistent documentation of tools in the toolchain are to be found in discussion forums, the Kolmogorov complexity also includes whatever research is necessary to assess the quality of the tentative solutions or workarounds presented. Discussion forums tend to have a very bad SNDR: 
   * for every actual solution, there are 
   * about 5 solutions that almost work, 
